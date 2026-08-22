@@ -1,6 +1,6 @@
 # cybersecurity-notes
-Hello! i am learning cybersecurity.
- Topics i am studying:
+Hello! I am learning cybersecurity.
+ Topics I am studying:
  - Networking
  - Linux
  - Cybersecurity Fundermentals
